@@ -59,10 +59,10 @@ header{
     gap: 2rem;
 }
 section{
-    padding: 0 10%;
+    padding: 0 14%;
 }
 .hero-text h5{
-    font-size: 14px;
+    font-size: 25px;
     font-weight: 400;
     color: rgb(196, 7, 70);
     margin-bottom: 40px;
@@ -74,7 +74,7 @@ section{
     margin: 0 0 45px;
 }
 .hero-text h4{
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 600;
     color: rgb(255, 0, 106);
     margin-bottom: 10px;
